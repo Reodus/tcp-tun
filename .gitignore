@@ -1,3 +1,4 @@
 tcp-tun
 .idea/
 build/
+cmake-build-debug/
